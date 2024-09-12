@@ -31,12 +31,12 @@
     &quot;assignee&quot;: &quot;kdshah50&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kdshah50/kamleshtest",
-    "accountId": "c2791de9-edd4-4db2-9389-099772e37ad8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kdshah50/kamleshtest&quot;,
+    &quot;accountId&quot;: &quot;c2791de9-edd4-4db2-9389-099772e37ad8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,7 +51,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.HelloWorld1 [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;kamleshtest&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;kamleshtest1&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Shah/HelloWorld1&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
